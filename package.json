@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Jamil Hassan Spain",
+    "email": "jamilhassanspain@gmail.com",
+    "website": "http://www.jamilhassanspain.com"
+  },
+  "name": "node-taffydb",
+  "description": "TaffyDB is an opensource library that brings database features into your JavaScript applications. This NPM module uses taffy 2.6.1",
+  "version": "1.0",
+  "directories": {},
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/jamilhassanspain/node-taffydb.git"
+  },
+  "homepage": "http://taffydb.com/",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index.js"
+}
