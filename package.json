@@ -6,7 +6,7 @@
   },
   "name": "node-taffydb",
   "description": "TaffyDB is an opensource library that brings database features into your JavaScript applications. This NPM module uses taffy 2.6.1",
-  "version": "1.0",
+  "version": "0.0.1",
   "directories": {},
  "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   },
   "homepage": "http://taffydb.com/",
   "engines": {
-    "node": "0.8.x"
+    "node": "*"
   },
   "dependencies": {},
   "devDependencies": {},
